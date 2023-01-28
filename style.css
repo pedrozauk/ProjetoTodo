@@ -1,0 +1,13 @@
+body {
+    font-size: 15pt;
+}
+body *{
+  margin: 0 auto;
+} 
+
+#item-tarefa{
+  text-align: center;
+}
+#item-tarefa li{
+  margin-top: 1em;
+}
